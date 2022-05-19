@@ -1,9 +1,9 @@
 import "./styles.css";
-import Todo from "./components/Todo";
+import Res from "./components/Restaurants";
 function App() {
   return (
     <div className="App">
-      <Todo />
+      <Res />
     </div>
   );
 }

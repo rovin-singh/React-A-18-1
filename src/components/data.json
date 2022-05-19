@@ -1,0 +1,14 @@
+{
+  "Restaurants":[
+    {
+    "id":1,
+    "name":"Red hurt",
+    "payment":{
+      "cash":"true",
+      "online":"true",
+      "upi":"true"
+    },
+    "category":"Vegeterian"
+   }
+  ]
+}
